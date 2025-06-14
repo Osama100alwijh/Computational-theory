@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.Properties.Resources.resources
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\bin\Debug\TheoryOfComputationSimulator.exe.config
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\bin\Debug\TheoryOfComputationSimulator.exe
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\bin\Debug\TheoryOfComputationSimulator.pdb
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOf.2F8A536F.Up2Date
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.exe
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.pdb
+C:\Users\Owner\source\repos\TheoryOfComputationSimulator\TheoryOfComputationSimulator\obj\Debug\TheoryOfComputationSimulator.exe.config
